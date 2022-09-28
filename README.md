@@ -1,1 +1,1 @@
-Repositório teste para aprender sobre chave_ssh
+Repositório sobre o conhecimento teórico de Javascript
