@@ -1,0 +1,1 @@
+O javascript foi criado por Brendan Eich(empregado da Netscape Corporation), seu nome oficial é EcmaScript e é considerada uma linguagem de alto nível.

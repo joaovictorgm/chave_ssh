@@ -1,0 +1,17 @@
+Tipos de Dados do Javascript
+ 
+Primitivos
+
+1.Boolean: Tipo de dado lógico que pode ter apenas um de dois valores possíveis: verdadeiro ou falso. No Javascript condicionais booleanas são usadas para decidir quais trechos do código serão executados ou repetidas.
+
+2.Null: O tipo Null tem valor:null(nulo).
+
+3.Undefined: Uma variável que não foi atribuída a um valor específico, assume o valor undefined(indefinido).
+
+4.Number: Tipos de dados númericos.
+
+5.Bigint: Tipos de dados numérico que representa inteiros no formato de precisão arbitrária.
+
+6.String: Tipo String em JavaScript é usado para representar dados textuais. Cada elemento na string ocupa uma posição na string. O primeiro elemento está no índice 0. o próximo no índice 1, e assim por diante.
+
+7.Objetos: E um valor na memória que pode ser possivelmente referenciado por um identifier.
